@@ -5,3 +5,4 @@ function gitTest(params) {
     document.write("Hello Github");
 }
 gitTest();
+document.write("Checking Branch B");
